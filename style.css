@@ -1,0 +1,76 @@
+
+header{
+    font-size: 50px;
+    background-color: white;
+    padding-left: 50px; 
+}
+body{
+    margin: 20px;
+    background-color: black;
+    font-family: "Playfair Display", serif;
+}
+.one{
+    display: flex;
+}
+.foto{
+    height: 500px;
+    margin: 15px;
+}
+strong{
+    font-size: 50px;
+    padding: 50px;
+}
+p{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.titulo{
+    margin: 20px;
+}
+.imagem{
+    margin-left: 50px;
+}
+.two{
+    background-color: white;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.three{
+    background-color: white;
+    display: flex;
+}
+.peq{
+    font-size: 20px;
+}
+.four{
+    background-color: white;
+    margin-top: 30px;
+}
+img{
+    height: 350px;
+}
+.videos{
+    overflow-x: auto;
+    gap: 20px;
+}
+.CATEGORIA-VIDEOS{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.CATEGORIA{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1;
+    border: 1px solid blue;
+}
+    .categoria h2{
+        color: white
+    }
